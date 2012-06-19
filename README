@@ -1,0 +1,3 @@
+adi
+
+Currently this ruby script only extracts zip files from a known folder. Need to generalize so it's actually useful
